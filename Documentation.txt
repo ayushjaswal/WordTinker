@@ -1,0 +1,10 @@
+The following libraries have been used in the making of this project: 
+1. Pyttsx3
+2. PyDictionary
+3. wordhoard
+
+The code that has been written depends highly on the proper working of these libraries. These libraries have a good record of being managed from time to time. 
+
+The program is used to find meanings, synonyms and antonyms of the given word, but it proceeds with the help of a voice rather than text. The library that is used for the generation of voice is Pyttsx3. The Library that is used to find the meaning of words is PyDictionary. It already has a large set of predefined words whose meaning has been defined. The library that is used to get the antonyms and synonyms of the word is wordhoard.
+
+The program has been written in an OOP structure that makes it easier to read and understand for anyone who wants to see the source code. 
